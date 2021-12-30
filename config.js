@@ -11,10 +11,10 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Nirmanpreet',
   imageBackground: false,
   openInNewTab: true,
-  twelveHourFormat: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://gmail.com/',
     },
     {
       id: '3',
@@ -72,7 +72,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Hackernews',
+        link: 'https://news.ycombinator.com/',
       },
       {
         name: 'Dribbble',
